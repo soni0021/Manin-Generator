@@ -1,0 +1,34 @@
+# Streamlit App Dependencies for Hinglish Educational Animations
+
+# Core Animation Dependencies
+manim>=0.18.0                # Manim Community Edition
+manim-voiceover>=0.3.4       # Voiceover integration
+gtts>=2.4.0                  # Google Text-to-Speech (free)
+pygame>=2.5.2                # Audio playback support
+
+# Web App Framework
+streamlit>=1.28.0            # Web app framework
+
+# AI Integration
+google-generativeai>=0.3.0   # Gemini AI integration
+
+# Additional utilities
+pathlib2>=2.3.7             # Enhanced path handling (Python < 3.4)
+tempfile                     # Built-in, for temporary files
+
+# Optional: Enhanced UI components
+streamlit-option-menu>=0.3.6  # Better navigation menus
+streamlit-extras>=0.3.5       # Additional Streamlit components
+
+# Installation Instructions:
+# pip install -r requirements-streamlit.txt
+
+# Quick Setup:
+# 1. pip install streamlit manim manim-voiceover gtts pygame google-generativeai
+# 2. streamlit run streamlit_app.py
+# 3. Open browser to http://localhost:8501
+
+# Platform Notes:
+# - macOS: brew install portaudio (if audio issues)
+# - Linux: sudo apt-get install portaudio19-dev (if audio issues)
+# - Windows: Should work out of the box

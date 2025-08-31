@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,428
+Newton ka second law: F equals ma
+
+2
+00:00:03,533 --> 00:00:06,721
+Force equals mass times acceleration
+
+3
+00:00:06,866 --> 00:00:10,534
+Force lagane se object accelerate hota hai
+

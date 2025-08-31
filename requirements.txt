@@ -1,0 +1,75 @@
+# Core Manim and Voiceover Dependencies (Required)
+manim>=0.18.0
+manim-voiceover>=0.3.4
+
+# Basic TTS Service (Recommended - Free and Reliable)
+gtts>=2.4.0
+pygame>=2.5.2  # For audio playback in manim-voiceover
+
+# Advanced TTS Services (Optional)
+# Uncomment based on your needs:
+
+# Coqui TTS for XTTS v2 (High-quality voice cloning)
+# TTS>=0.22.0
+# torch>=2.0.0
+# torchaudio>=2.0.0
+
+# ElevenLabs TTS (Premium quality, requires API key)
+# elevenlabs>=0.2.26
+
+# Additional Manim Plugins (Optional)
+# manim-physics>=0.3.0      # For physics simulations
+# manim-chemistry>=0.1.0    # For chemistry molecules (if available)
+
+# Audio Processing (Optional - for advanced audio handling)
+# pydub>=0.25.1
+# librosa>=0.10.0
+# soundfile>=0.12.1
+
+# Offline TTS Alternative (Optional)
+# piper-tts>=1.2.0  # For fully offline voice synthesis
+
+# Development and Utilities (Optional)
+# jupyter>=1.0.0           # For notebook-based development
+# matplotlib>=3.7.0        # Additional plotting if needed
+# numpy>=1.24.0            # Usually included with manim
+# scipy>=1.10.0            # For advanced mathematical operations
+
+# Text Processing (Optional - for advanced Hinglish processing)
+# indic-transliteration>=2.3.0  # Better Hindi transliteration
+# polyglot>=16.7.4              # Language detection
+# nltk>=3.8.1                   # Natural language processing
+
+# Web Integration (Optional)
+# requests>=2.31.0         # For API calls to cloud TTS services
+# beautifulsoup4>=4.12.0   # For web scraping educational content
+
+# Minimum Python Version: 3.8+
+# Recommended Python Version: 3.9-3.11
+
+# Installation Instructions:
+# 1. Basic setup (recommended for most users):
+#    pip install manim manim-voiceover gtts pygame
+#
+# 2. Full installation:
+#    pip install -r requirements.txt
+#
+# 3. For development:
+#    pip install -r requirements.txt
+#    pip install jupyter matplotlib
+#
+# 4. For advanced TTS:
+#    pip install TTS torch torchaudio
+#    # Or for ElevenLabs:
+#    pip install elevenlabs
+#    export ELEVENLABS_API_KEY="your_api_key_here"
+
+# Platform-specific Notes:
+# - macOS: May need to install portaudio for audio: brew install portaudio
+# - Linux: May need: sudo apt-get install portaudio19-dev python3-pyaudio
+# - Windows: Audio dependencies usually work out of the box
+
+# Troubleshooting:
+# If you encounter audio issues, try:
+# pip install --upgrade pygame
+# pip install pyaudio  # May require system audio libraries

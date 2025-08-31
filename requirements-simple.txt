@@ -1,0 +1,29 @@
+# Simplified Hinglish Manim System - Minimal Dependencies
+# This is the recommended setup for most users
+
+# Core Requirements (Essential)
+manim>=0.18.0                # Manim Community Edition
+manim-voiceover>=0.3.4       # Voiceover integration
+gtts>=2.4.0                  # Google Text-to-Speech (free, reliable)
+pygame>=2.5.2                # Audio playback support
+
+# That's it! This minimal setup provides:
+# - Full Manim animation capabilities
+# - Automatic voiceover synchronization
+# - Free Hinglish TTS via gTTS
+# - Audio caching and playback
+
+# Installation:
+# pip install -r requirements-simple.txt
+
+# Quick Start:
+# 1. Install dependencies: pip install -r requirements-simple.txt
+# 2. Run example: manim simple_hinglish_manim.py NewtonsLawDemo
+# 3. Use Gemini prompt for custom animations
+
+# Python Version: 3.8+ (3.9-3.11 recommended)
+
+# Platform Notes:
+# - macOS: brew install portaudio (if audio issues)
+# - Linux: sudo apt-get install portaudio19-dev (if audio issues)
+# - Windows: Should work out of the box

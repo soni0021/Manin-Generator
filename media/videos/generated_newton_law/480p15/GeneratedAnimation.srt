@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:04,604
+Namaskar! Aaj hum Newton's Second Law of Motion samjhenge.
+
+2
+00:00:06,200 --> 00:00:09,436
+Iska famous formula hai F = ma.
+
+3
+00:00:09,600 --> 00:00:13,148
+Yahan F ka matlab hai Force, yaani bal.
+
+4
+00:00:13,266 --> 00:00:17,174
+m ka matlab hai Mass, yaani object ka vajan.
+
+5
+00:00:17,333 --> 00:00:22,825
+Aur a ka matlab hai Acceleration, yaani uski speed badhne ki dar.
+
+6
+00:00:25,933 --> 00:00:30,038
+Chalo ek example dekhte hain. Maan lo yeh
+
+7
+00:00:30,138 --> 00:00:33,321
+ek block hai jiska mass 'm' hai.
+
+8
+00:00:33,466 --> 00:00:37,783
+Jab hum ispar thoda sa Force 'F' lagate hain,
+
+9
+00:00:37,883 --> 00:00:42,102
+toh isme thodi si Acceleration 'a' aati hai.
+
+10
+00:00:44,266 --> 00:00:47,706
+Lekin agar hum Force double kar dein,
+
+11
+00:00:47,806 --> 00:00:51,054
+yaani '2F', toh dekho kya hota hai.
+
+12
+00:00:51,200 --> 00:00:54,363
+Acceleration bhi double ho jaati hai!
+
+13
+00:00:54,463 --> 00:00:57,892
+Force zyada, toh acceleration bhi zyada.
+
+14
+00:00:59,000 --> 00:01:03,647
+Ab socho, agar hum Force utna hi rakhein, lekin
+
+15
+00:01:03,747 --> 00:01:08,596
+mass double, yaani '2m' kar dein... toh kya hoga?
+
+16
+00:01:08,733 --> 00:01:11,945
+Dekho, acceleration aadhi ho gayi!
+
+17
+00:01:13,066 --> 00:01:18,046
+Toh isse saabit hota hai: Force badhne se acceleration badhti
+
+18
+00:01:18,146 --> 00:01:22,542
+hai, aur mass badhne se acceleration kam ho jaati hai.
+
+19
+00:01:22,666 --> 00:01:25,134
+Yeh hi hai Newton's Second Law.
+

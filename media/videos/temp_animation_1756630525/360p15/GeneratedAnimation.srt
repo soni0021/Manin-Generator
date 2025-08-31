@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:04,662
+Hello! Today we will understand Le Chatelier's principle and see
+
+2
+00:00:04,762 --> 00:00:09,500
+what effect increasing pressure has on this chemical equilibrium.
+
+3
+00:00:11,600 --> 00:00:15,653
+Here we have a container with reactants and products in
+
+4
+00:00:15,753 --> 00:00:19,958
+equilibrium. Notice that the reactant side has 3 moles of
+
+5
+00:00:20,058 --> 00:00:22,828
+gas, and the product side has 2 moles.
+
+6
+00:00:22,933 --> 00:00:26,654
+Now imagine we double the pressure on this system.
+
+7
+00:00:26,754 --> 00:00:30,705
+When we do this, the container's volume becomes half.
+
+8
+00:00:31,866 --> 00:00:37,659
+When volume decreases, the concentration of each gas increases. Therefore,
+
+9
+00:00:37,759 --> 00:00:43,552
+the concentration of all reactants and products will immediately increase.
+
+10
+00:00:43,652 --> 00:00:47,534
+According to this, Option A is absolutely correct.
+
+11
+00:00:47,733 --> 00:00:53,067
+However, Le Chatelier's principle states that the system will oppose this
+
+12
+00:00:53,167 --> 00:00:58,500
+change. To reduce pressure, equilibrium will shift in the direction where
+
+13
+00:00:58,600 --> 00:01:03,041
+there are fewer gas moles, that is, in the forward direction.
+
+14
+00:01:05,200 --> 00:01:09,614
+One very important point: the equilibrium constant 'K'
+
+15
+00:01:09,714 --> 00:01:14,630
+only changes with temperature, not with pressure. Therefore,
+
+16
+00:01:14,730 --> 00:01:17,556
+options C and D are directly wrong.
+
+17
+00:01:18,733 --> 00:01:22,424
+So both A and B are sort of correct, but the first
+
+18
+00:01:22,524 --> 00:01:28,414
+and most direct result of increasing pressure is the increase in concentration.
+
+19
+00:01:28,514 --> 00:01:34,329
+The shift happens afterwards. Therefore, Option A is the most accurate answer.
+
+20
+00:01:34,466 --> 00:01:38,422
+I hope you have understood this concept. Thank you!
+

@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:04,164
+Namaskar! Aaj hum ek complex physics problem dekhenge
+
+2
+00:00:04,264 --> 00:00:08,108
+- rotating platform par rolling sphere ka motion.
+
+3
+00:00:09,266 --> 00:00:13,295
+Sphere par constant horizontal force F lagaaya jaata
+
+4
+00:00:13,395 --> 00:00:16,630
+hai. Platform freely rotate kar sakta hai.
+
+5
+00:00:16,733 --> 00:00:20,257
+Ab top view mein dekhte hain kya hota hai.
+
+6
+00:00:20,400 --> 00:00:23,427
+Platform aur sphere ka top view. Orange
+
+7
+00:00:23,527 --> 00:00:26,636
+sphere blue platform par roll karta hai.
+
+8
+00:00:26,800 --> 00:00:30,373
+Jab force lagti hai, sphere roll karta hai aur
+
+9
+00:00:30,473 --> 00:00:36,444
+platform opposite direction mein rotate hota hai. Action-reaction principle!
+
+10
+00:00:36,600 --> 00:00:40,231
+Dekho kitna beautiful pattern banta hai! Sphere
+
+11
+00:00:40,331 --> 00:00:43,724
+ka relative motion cycloid curve banata hai.
+
+12
+00:00:43,866 --> 00:00:49,384
+Is complex motion mein energy conservation, angular momentum, rolling
+
+13
+00:00:49,484 --> 00:00:54,350
+constraint, aur action-reaction - sab concepts involved hain.
+
+14
+00:01:08,066 --> 00:01:12,486
+Is tarah complex physics problems ko visual animation
+
+15
+00:01:12,586 --> 00:01:15,982
+se samajhna asan ho jaata hai. Thank you!
+

@@ -1,0 +1,731 @@
+[
+  {
+    "input_text": "Yeh ek simple test hai",
+    "input_data": {
+      "input_text": "Yeh ek simple test hai",
+      "service": "gtts"
+    },
+    "original_audio": "yeh-ek-simple-test-hai-f13fd683.mp3",
+    "final_audio": "yeh-ek-simple-test-hai-f13fd683.mp3"
+  },
+  {
+    "input_text": "Yeh ek simple test hai",
+    "input_data": {
+      "input_text": "Yeh ek simple test hai",
+      "service": "gtts"
+    },
+    "original_audio": "yeh-ek-simple-test-hai-f13fd683.mp3",
+    "final_audio": "yeh-ek-simple-test-hai-f13fd683.mp3"
+  },
+  {
+    "input_text": "Circle aur square dekho",
+    "input_data": {
+      "input_text": "Circle aur square dekho",
+      "service": "gtts"
+    },
+    "original_audio": "circle-aur-square-dekho-3b3ff674.mp3",
+    "final_audio": "circle-aur-square-dekho-3b3ff674.mp3"
+  },
+  {
+    "input_text": "Yeh ek test video hai Streamlit ke liye",
+    "input_data": {
+      "input_text": "Yeh ek test video hai Streamlit ke liye",
+      "service": "gtts"
+    },
+    "original_audio": "yeh-ek-test-video-hai-streamlit-ke-liye-1f586f6d.mp3",
+    "final_audio": "yeh-ek-test-video-hai-streamlit-ke-liye-1f586f6d.mp3"
+  },
+  {
+    "input_text": "Dekho yeh circle hai",
+    "input_data": {
+      "input_text": "Dekho yeh circle hai",
+      "service": "gtts"
+    },
+    "original_audio": "dekho-yeh-circle-hai-ed022f0e.mp3",
+    "final_audio": "dekho-yeh-circle-hai-ed022f0e.mp3"
+  },
+  {
+    "input_text": "Newton ka second law: F equals ma",
+    "input_data": {
+      "input_text": "Newton ka second law: F equals ma",
+      "service": "gtts"
+    },
+    "original_audio": "newton-ka-second-law-f-equals-ma-fb8e081d.mp3",
+    "final_audio": "newton-ka-second-law-f-equals-ma-fb8e081d.mp3"
+  },
+  {
+    "input_text": "Force equals mass times acceleration",
+    "input_data": {
+      "input_text": "Force equals mass times acceleration",
+      "service": "gtts"
+    },
+    "original_audio": "force-equals-mass-times-acceleration-e5fb7e55.mp3",
+    "final_audio": "force-equals-mass-times-acceleration-e5fb7e55.mp3"
+  },
+  {
+    "input_text": "Force lagane se object accelerate hota hai",
+    "input_data": {
+      "input_text": "Force lagane se object accelerate hota hai",
+      "service": "gtts"
+    },
+    "original_audio": "force-lagane-se-object-accelerate-hota-hai-7c3f52cb.mp3",
+    "final_audio": "force-lagane-se-object-accelerate-hota-hai-7c3f52cb.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum Newton's Second Law of Motion samjhenge.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum Newton's Second Law of Motion samjhenge.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-newton-s-second-law-of-motion-0fbf10a2.mp3",
+    "final_audio": "namaskar-aaj-hum-newton-s-second-law-of-motion-0fbf10a2.mp3"
+  },
+  {
+    "input_text": "Iska famous formula hai F = ma.",
+    "input_data": {
+      "input_text": "Iska famous formula hai F = ma.",
+      "service": "gtts"
+    },
+    "original_audio": "iska-famous-formula-hai-f-ma-ca189ef5.mp3",
+    "final_audio": "iska-famous-formula-hai-f-ma-ca189ef5.mp3"
+  },
+  {
+    "input_text": "Yahan F ka matlab hai Force, yaani bal.",
+    "input_data": {
+      "input_text": "Yahan F ka matlab hai Force, yaani bal.",
+      "service": "gtts"
+    },
+    "original_audio": "yahan-f-ka-matlab-hai-force-yaani-bal-91c39bc7.mp3",
+    "final_audio": "yahan-f-ka-matlab-hai-force-yaani-bal-91c39bc7.mp3"
+  },
+  {
+    "input_text": "m ka matlab hai Mass, yaani object ka vajan.",
+    "input_data": {
+      "input_text": "m ka matlab hai Mass, yaani object ka vajan.",
+      "service": "gtts"
+    },
+    "original_audio": "m-ka-matlab-hai-mass-yaani-object-ka-vajan-4260bdb2.mp3",
+    "final_audio": "m-ka-matlab-hai-mass-yaani-object-ka-vajan-4260bdb2.mp3"
+  },
+  {
+    "input_text": "Aur a ka matlab hai Acceleration, yaani uski speed badhne ki dar.",
+    "input_data": {
+      "input_text": "Aur a ka matlab hai Acceleration, yaani uski speed badhne ki dar.",
+      "service": "gtts"
+    },
+    "original_audio": "aur-a-ka-matlab-hai-acceleration-yaani-uski-speed-89e494d2.mp3",
+    "final_audio": "aur-a-ka-matlab-hai-acceleration-yaani-uski-speed-89e494d2.mp3"
+  },
+  {
+    "input_text": "Chalo ek example dekhte hain. Maan lo yeh ek block hai jiska mass 'm' hai.",
+    "input_data": {
+      "input_text": "Chalo ek example dekhte hain. Maan lo yeh ek block hai jiska mass 'm' hai.",
+      "service": "gtts"
+    },
+    "original_audio": "chalo-ek-example-dekhte-hain-maan-lo-yeh-ek-block-f8c3d98c.mp3",
+    "final_audio": "chalo-ek-example-dekhte-hain-maan-lo-yeh-ek-block-f8c3d98c.mp3"
+  },
+  {
+    "input_text": "Jab hum ispar thoda sa Force 'F' lagate hain, toh isme thodi si Acceleration 'a' aati hai.",
+    "input_data": {
+      "input_text": "Jab hum ispar thoda sa Force 'F' lagate hain, toh isme thodi si Acceleration 'a' aati hai.",
+      "service": "gtts"
+    },
+    "original_audio": "jab-hum-ispar-thoda-sa-force-f-lagate-hain-toh-f33d40bb.mp3",
+    "final_audio": "jab-hum-ispar-thoda-sa-force-f-lagate-hain-toh-f33d40bb.mp3"
+  },
+  {
+    "input_text": "Lekin agar hum Force double kar dein, yaani '2F', toh dekho kya hota hai.",
+    "input_data": {
+      "input_text": "Lekin agar hum Force double kar dein, yaani '2F', toh dekho kya hota hai.",
+      "service": "gtts"
+    },
+    "original_audio": "lekin-agar-hum-force-double-kar-dein-yaani-2f-toh-5ccb38cc.mp3",
+    "final_audio": "lekin-agar-hum-force-double-kar-dein-yaani-2f-toh-5ccb38cc.mp3"
+  },
+  {
+    "input_text": "Acceleration bhi double ho jaati hai! Force zyada, toh acceleration bhi zyada.",
+    "input_data": {
+      "input_text": "Acceleration bhi double ho jaati hai! Force zyada, toh acceleration bhi zyada.",
+      "service": "gtts"
+    },
+    "original_audio": "acceleration-bhi-double-ho-jaati-hai-force-zyada-2a97be66.mp3",
+    "final_audio": "acceleration-bhi-double-ho-jaati-hai-force-zyada-2a97be66.mp3"
+  },
+  {
+    "input_text": "Ab socho, agar hum Force utna hi rakhein, lekin mass double, yaani '2m' kar dein... toh kya hoga?",
+    "input_data": {
+      "input_text": "Ab socho, agar hum Force utna hi rakhein, lekin mass double, yaani '2m' kar dein... toh kya hoga?",
+      "service": "gtts"
+    },
+    "original_audio": "ab-socho-agar-hum-force-utna-hi-rakhein-lekin-mass-1a954652.mp3",
+    "final_audio": "ab-socho-agar-hum-force-utna-hi-rakhein-lekin-mass-1a954652.mp3"
+  },
+  {
+    "input_text": "Dekho, acceleration aadhi ho gayi!",
+    "input_data": {
+      "input_text": "Dekho, acceleration aadhi ho gayi!",
+      "service": "gtts"
+    },
+    "original_audio": "dekho-acceleration-aadhi-ho-gayi-37591493.mp3",
+    "final_audio": "dekho-acceleration-aadhi-ho-gayi-37591493.mp3"
+  },
+  {
+    "input_text": "Toh isse saabit hota hai: Force badhne se acceleration badhti hai, aur mass badhne se acceleration kam ho jaati hai.",
+    "input_data": {
+      "input_text": "Toh isse saabit hota hai: Force badhne se acceleration badhti hai, aur mass badhne se acceleration kam ho jaati hai.",
+      "service": "gtts"
+    },
+    "original_audio": "toh-isse-saabit-hota-hai-force-badhne-se-0dbbe6dc.mp3",
+    "final_audio": "toh-isse-saabit-hota-hai-force-badhne-se-0dbbe6dc.mp3"
+  },
+  {
+    "input_text": "Yeh hi hai Newton's Second Law.",
+    "input_data": {
+      "input_text": "Yeh hi hai Newton's Second Law.",
+      "service": "gtts"
+    },
+    "original_audio": "yeh-hi-hai-newton-s-second-law-14b4e995.mp3",
+    "final_audio": "yeh-hi-hai-newton-s-second-law-14b4e995.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum Newton's Second Law of Motion samjhenge.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum Newton's Second Law of Motion samjhenge.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-newton-s-second-law-of-motion-0fbf10a2.mp3",
+    "final_audio": "namaskar-aaj-hum-newton-s-second-law-of-motion-0fbf10a2.mp3"
+  },
+  {
+    "input_text": "Iska famous formula hai F = ma.",
+    "input_data": {
+      "input_text": "Iska famous formula hai F = ma.",
+      "service": "gtts"
+    },
+    "original_audio": "iska-famous-formula-hai-f-ma-ca189ef5.mp3",
+    "final_audio": "iska-famous-formula-hai-f-ma-ca189ef5.mp3"
+  },
+  {
+    "input_text": "Yahan F ka matlab hai Force, yaani bal.",
+    "input_data": {
+      "input_text": "Yahan F ka matlab hai Force, yaani bal.",
+      "service": "gtts"
+    },
+    "original_audio": "yahan-f-ka-matlab-hai-force-yaani-bal-91c39bc7.mp3",
+    "final_audio": "yahan-f-ka-matlab-hai-force-yaani-bal-91c39bc7.mp3"
+  },
+  {
+    "input_text": "m ka matlab hai Mass, yaani object ka vajan.",
+    "input_data": {
+      "input_text": "m ka matlab hai Mass, yaani object ka vajan.",
+      "service": "gtts"
+    },
+    "original_audio": "m-ka-matlab-hai-mass-yaani-object-ka-vajan-4260bdb2.mp3",
+    "final_audio": "m-ka-matlab-hai-mass-yaani-object-ka-vajan-4260bdb2.mp3"
+  },
+  {
+    "input_text": "Aur a ka matlab hai Acceleration, yaani uski speed badhne ki dar.",
+    "input_data": {
+      "input_text": "Aur a ka matlab hai Acceleration, yaani uski speed badhne ki dar.",
+      "service": "gtts"
+    },
+    "original_audio": "aur-a-ka-matlab-hai-acceleration-yaani-uski-speed-89e494d2.mp3",
+    "final_audio": "aur-a-ka-matlab-hai-acceleration-yaani-uski-speed-89e494d2.mp3"
+  },
+  {
+    "input_text": "Chalo ek example dekhte hain. Maan lo yeh ek block hai jiska mass 'm' hai.",
+    "input_data": {
+      "input_text": "Chalo ek example dekhte hain. Maan lo yeh ek block hai jiska mass 'm' hai.",
+      "service": "gtts"
+    },
+    "original_audio": "chalo-ek-example-dekhte-hain-maan-lo-yeh-ek-block-f8c3d98c.mp3",
+    "final_audio": "chalo-ek-example-dekhte-hain-maan-lo-yeh-ek-block-f8c3d98c.mp3"
+  },
+  {
+    "input_text": "Jab hum ispar thoda sa Force 'F' lagate hain, toh isme thodi si Acceleration 'a' aati hai.",
+    "input_data": {
+      "input_text": "Jab hum ispar thoda sa Force 'F' lagate hain, toh isme thodi si Acceleration 'a' aati hai.",
+      "service": "gtts"
+    },
+    "original_audio": "jab-hum-ispar-thoda-sa-force-f-lagate-hain-toh-f33d40bb.mp3",
+    "final_audio": "jab-hum-ispar-thoda-sa-force-f-lagate-hain-toh-f33d40bb.mp3"
+  },
+  {
+    "input_text": "Lekin agar hum Force double kar dein, yaani '2F', toh dekho kya hota hai.",
+    "input_data": {
+      "input_text": "Lekin agar hum Force double kar dein, yaani '2F', toh dekho kya hota hai.",
+      "service": "gtts"
+    },
+    "original_audio": "lekin-agar-hum-force-double-kar-dein-yaani-2f-toh-5ccb38cc.mp3",
+    "final_audio": "lekin-agar-hum-force-double-kar-dein-yaani-2f-toh-5ccb38cc.mp3"
+  },
+  {
+    "input_text": "Acceleration bhi double ho jaati hai! Force zyada, toh acceleration bhi zyada.",
+    "input_data": {
+      "input_text": "Acceleration bhi double ho jaati hai! Force zyada, toh acceleration bhi zyada.",
+      "service": "gtts"
+    },
+    "original_audio": "acceleration-bhi-double-ho-jaati-hai-force-zyada-2a97be66.mp3",
+    "final_audio": "acceleration-bhi-double-ho-jaati-hai-force-zyada-2a97be66.mp3"
+  },
+  {
+    "input_text": "Ab socho, agar hum Force utna hi rakhein, lekin mass double, yaani '2m' kar dein... toh kya hoga?",
+    "input_data": {
+      "input_text": "Ab socho, agar hum Force utna hi rakhein, lekin mass double, yaani '2m' kar dein... toh kya hoga?",
+      "service": "gtts"
+    },
+    "original_audio": "ab-socho-agar-hum-force-utna-hi-rakhein-lekin-mass-1a954652.mp3",
+    "final_audio": "ab-socho-agar-hum-force-utna-hi-rakhein-lekin-mass-1a954652.mp3"
+  },
+  {
+    "input_text": "Dekho, acceleration aadhi ho gayi!",
+    "input_data": {
+      "input_text": "Dekho, acceleration aadhi ho gayi!",
+      "service": "gtts"
+    },
+    "original_audio": "dekho-acceleration-aadhi-ho-gayi-37591493.mp3",
+    "final_audio": "dekho-acceleration-aadhi-ho-gayi-37591493.mp3"
+  },
+  {
+    "input_text": "Toh isse saabit hota hai: Force badhne se acceleration badhti hai, aur mass badhne se acceleration kam ho jaati hai.",
+    "input_data": {
+      "input_text": "Toh isse saabit hota hai: Force badhne se acceleration badhti hai, aur mass badhne se acceleration kam ho jaati hai.",
+      "service": "gtts"
+    },
+    "original_audio": "toh-isse-saabit-hota-hai-force-badhne-se-0dbbe6dc.mp3",
+    "final_audio": "toh-isse-saabit-hota-hai-force-badhne-se-0dbbe6dc.mp3"
+  },
+  {
+    "input_text": "Yeh hi hai Newton's Second Law.",
+    "input_data": {
+      "input_text": "Yeh hi hai Newton's Second Law.",
+      "service": "gtts"
+    },
+    "original_audio": "yeh-hi-hai-newton-s-second-law-14b4e995.mp3",
+    "final_audio": "yeh-hi-hai-newton-s-second-law-14b4e995.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum ek complex physics problem dekhenge - rotating platform par rolling sphere ka motion.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum ek complex physics problem dekhenge - rotating platform par rolling sphere ka motion.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-ek-complex-physics-problem-6e8a200b.mp3",
+    "final_audio": "namaskar-aaj-hum-ek-complex-physics-problem-6e8a200b.mp3"
+  },
+  {
+    "input_text": "Sphere par constant horizontal force F lagaaya jaata hai. Platform freely rotate kar sakta hai.",
+    "input_data": {
+      "input_text": "Sphere par constant horizontal force F lagaaya jaata hai. Platform freely rotate kar sakta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "sphere-par-constant-horizontal-force-f-lagaaya-efa9c59c.mp3",
+    "final_audio": "sphere-par-constant-horizontal-force-f-lagaaya-efa9c59c.mp3"
+  },
+  {
+    "input_text": "Ab top view mein dekhte hain kya hota hai.",
+    "input_data": {
+      "input_text": "Ab top view mein dekhte hain kya hota hai.",
+      "service": "gtts"
+    },
+    "original_audio": "ab-top-view-mein-dekhte-hain-kya-hota-hai-cb60b5e7.mp3",
+    "final_audio": "ab-top-view-mein-dekhte-hain-kya-hota-hai-cb60b5e7.mp3"
+  },
+  {
+    "input_text": "Platform aur sphere ka top view. Orange sphere blue platform par roll karta hai.",
+    "input_data": {
+      "input_text": "Platform aur sphere ka top view. Orange sphere blue platform par roll karta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "platform-aur-sphere-ka-top-view-orange-sphere-blue-5df08d10.mp3",
+    "final_audio": "platform-aur-sphere-ka-top-view-orange-sphere-blue-5df08d10.mp3"
+  },
+  {
+    "input_text": "Jab force lagti hai, sphere roll karta hai aur platform opposite direction mein rotate hota hai. Action-reaction principle!",
+    "input_data": {
+      "input_text": "Jab force lagti hai, sphere roll karta hai aur platform opposite direction mein rotate hota hai. Action-reaction principle!",
+      "service": "gtts"
+    },
+    "original_audio": "jab-force-lagti-hai-sphere-roll-karta-hai-aur-bfcf58f1.mp3",
+    "final_audio": "jab-force-lagti-hai-sphere-roll-karta-hai-aur-bfcf58f1.mp3"
+  },
+  {
+    "input_text": "Dekho kitna beautiful pattern banta hai! Sphere ka relative motion cycloid curve banata hai.",
+    "input_data": {
+      "input_text": "Dekho kitna beautiful pattern banta hai! Sphere ka relative motion cycloid curve banata hai.",
+      "service": "gtts"
+    },
+    "original_audio": "dekho-kitna-beautiful-pattern-banta-hai-sphere-ka-eaf007a5.mp3",
+    "final_audio": "dekho-kitna-beautiful-pattern-banta-hai-sphere-ka-eaf007a5.mp3"
+  },
+  {
+    "input_text": "Is complex motion mein energy conservation, angular momentum, rolling constraint, aur action-reaction - sab concepts involved hain.",
+    "input_data": {
+      "input_text": "Is complex motion mein energy conservation, angular momentum, rolling constraint, aur action-reaction - sab concepts involved hain.",
+      "service": "gtts"
+    },
+    "original_audio": "is-complex-motion-mein-energy-conservation-angular-3938c6df.mp3",
+    "final_audio": "is-complex-motion-mein-energy-conservation-angular-3938c6df.mp3"
+  },
+  {
+    "input_text": "Is tarah complex physics problems ko visual animation se samajhna asan ho jaata hai. Thank you!",
+    "input_data": {
+      "input_text": "Is tarah complex physics problems ko visual animation se samajhna asan ho jaata hai. Thank you!",
+      "service": "gtts"
+    },
+    "original_audio": "is-tarah-complex-physics-problems-ko-visual-645fe4ac.mp3",
+    "final_audio": "is-tarah-complex-physics-problems-ko-visual-645fe4ac.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum ek complex physics problem dekhenge - rotating platform par rolling sphere ka motion.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum ek complex physics problem dekhenge - rotating platform par rolling sphere ka motion.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-ek-complex-physics-problem-6e8a200b.mp3",
+    "final_audio": "namaskar-aaj-hum-ek-complex-physics-problem-6e8a200b.mp3"
+  },
+  {
+    "input_text": "Sphere par constant horizontal force F lagaaya jaata hai. Platform freely rotate kar sakta hai.",
+    "input_data": {
+      "input_text": "Sphere par constant horizontal force F lagaaya jaata hai. Platform freely rotate kar sakta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "sphere-par-constant-horizontal-force-f-lagaaya-efa9c59c.mp3",
+    "final_audio": "sphere-par-constant-horizontal-force-f-lagaaya-efa9c59c.mp3"
+  },
+  {
+    "input_text": "Ab top view mein dekhte hain kya hota hai.",
+    "input_data": {
+      "input_text": "Ab top view mein dekhte hain kya hota hai.",
+      "service": "gtts"
+    },
+    "original_audio": "ab-top-view-mein-dekhte-hain-kya-hota-hai-cb60b5e7.mp3",
+    "final_audio": "ab-top-view-mein-dekhte-hain-kya-hota-hai-cb60b5e7.mp3"
+  },
+  {
+    "input_text": "Platform aur sphere ka top view. Orange sphere blue platform par roll karta hai.",
+    "input_data": {
+      "input_text": "Platform aur sphere ka top view. Orange sphere blue platform par roll karta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "platform-aur-sphere-ka-top-view-orange-sphere-blue-5df08d10.mp3",
+    "final_audio": "platform-aur-sphere-ka-top-view-orange-sphere-blue-5df08d10.mp3"
+  },
+  {
+    "input_text": "Jab force lagti hai, sphere roll karta hai aur platform opposite direction mein rotate hota hai. Action-reaction principle!",
+    "input_data": {
+      "input_text": "Jab force lagti hai, sphere roll karta hai aur platform opposite direction mein rotate hota hai. Action-reaction principle!",
+      "service": "gtts"
+    },
+    "original_audio": "jab-force-lagti-hai-sphere-roll-karta-hai-aur-bfcf58f1.mp3",
+    "final_audio": "jab-force-lagti-hai-sphere-roll-karta-hai-aur-bfcf58f1.mp3"
+  },
+  {
+    "input_text": "Dekho kitna beautiful pattern banta hai! Sphere ka relative motion cycloid curve banata hai.",
+    "input_data": {
+      "input_text": "Dekho kitna beautiful pattern banta hai! Sphere ka relative motion cycloid curve banata hai.",
+      "service": "gtts"
+    },
+    "original_audio": "dekho-kitna-beautiful-pattern-banta-hai-sphere-ka-eaf007a5.mp3",
+    "final_audio": "dekho-kitna-beautiful-pattern-banta-hai-sphere-ka-eaf007a5.mp3"
+  },
+  {
+    "input_text": "Is complex motion mein energy conservation, angular momentum, rolling constraint, aur action-reaction - sab concepts involved hain.",
+    "input_data": {
+      "input_text": "Is complex motion mein energy conservation, angular momentum, rolling constraint, aur action-reaction - sab concepts involved hain.",
+      "service": "gtts"
+    },
+    "original_audio": "is-complex-motion-mein-energy-conservation-angular-3938c6df.mp3",
+    "final_audio": "is-complex-motion-mein-energy-conservation-angular-3938c6df.mp3"
+  },
+  {
+    "input_text": "Is tarah complex physics problems ko visual animation se samajhna asan ho jaata hai. Thank you!",
+    "input_data": {
+      "input_text": "Is tarah complex physics problems ko visual animation se samajhna asan ho jaata hai. Thank you!",
+      "service": "gtts"
+    },
+    "original_audio": "is-tarah-complex-physics-problems-ko-visual-645fe4ac.mp3",
+    "final_audio": "is-tarah-complex-physics-problems-ko-visual-645fe4ac.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum ek complex physics problem dekhenge - rotating platform par rolling sphere ka motion.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum ek complex physics problem dekhenge - rotating platform par rolling sphere ka motion.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-ek-complex-physics-problem-6e8a200b.mp3",
+    "final_audio": "namaskar-aaj-hum-ek-complex-physics-problem-6e8a200b.mp3"
+  },
+  {
+    "input_text": "Sphere par constant horizontal force F lagaaya jaata hai. Platform freely rotate kar sakta hai.",
+    "input_data": {
+      "input_text": "Sphere par constant horizontal force F lagaaya jaata hai. Platform freely rotate kar sakta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "sphere-par-constant-horizontal-force-f-lagaaya-efa9c59c.mp3",
+    "final_audio": "sphere-par-constant-horizontal-force-f-lagaaya-efa9c59c.mp3"
+  },
+  {
+    "input_text": "Ab top view mein dekhte hain kya hota hai.",
+    "input_data": {
+      "input_text": "Ab top view mein dekhte hain kya hota hai.",
+      "service": "gtts"
+    },
+    "original_audio": "ab-top-view-mein-dekhte-hain-kya-hota-hai-cb60b5e7.mp3",
+    "final_audio": "ab-top-view-mein-dekhte-hain-kya-hota-hai-cb60b5e7.mp3"
+  },
+  {
+    "input_text": "Platform aur sphere ka top view. Orange sphere blue platform par roll karta hai.",
+    "input_data": {
+      "input_text": "Platform aur sphere ka top view. Orange sphere blue platform par roll karta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "platform-aur-sphere-ka-top-view-orange-sphere-blue-5df08d10.mp3",
+    "final_audio": "platform-aur-sphere-ka-top-view-orange-sphere-blue-5df08d10.mp3"
+  },
+  {
+    "input_text": "Jab force lagti hai, sphere roll karta hai aur platform opposite direction mein rotate hota hai. Action-reaction principle!",
+    "input_data": {
+      "input_text": "Jab force lagti hai, sphere roll karta hai aur platform opposite direction mein rotate hota hai. Action-reaction principle!",
+      "service": "gtts"
+    },
+    "original_audio": "jab-force-lagti-hai-sphere-roll-karta-hai-aur-bfcf58f1.mp3",
+    "final_audio": "jab-force-lagti-hai-sphere-roll-karta-hai-aur-bfcf58f1.mp3"
+  },
+  {
+    "input_text": "Dekho kitna beautiful pattern banta hai! Sphere ka relative motion cycloid curve banata hai.",
+    "input_data": {
+      "input_text": "Dekho kitna beautiful pattern banta hai! Sphere ka relative motion cycloid curve banata hai.",
+      "service": "gtts"
+    },
+    "original_audio": "dekho-kitna-beautiful-pattern-banta-hai-sphere-ka-eaf007a5.mp3",
+    "final_audio": "dekho-kitna-beautiful-pattern-banta-hai-sphere-ka-eaf007a5.mp3"
+  },
+  {
+    "input_text": "Is complex motion mein energy conservation, angular momentum, rolling constraint, aur action-reaction - sab concepts involved hain.",
+    "input_data": {
+      "input_text": "Is complex motion mein energy conservation, angular momentum, rolling constraint, aur action-reaction - sab concepts involved hain.",
+      "service": "gtts"
+    },
+    "original_audio": "is-complex-motion-mein-energy-conservation-angular-3938c6df.mp3",
+    "final_audio": "is-complex-motion-mein-energy-conservation-angular-3938c6df.mp3"
+  },
+  {
+    "input_text": "Is tarah complex physics problems ko visual animation se samajhna asan ho jaata hai. Thank you!",
+    "input_data": {
+      "input_text": "Is tarah complex physics problems ko visual animation se samajhna asan ho jaata hai. Thank you!",
+      "service": "gtts"
+    },
+    "original_audio": "is-tarah-complex-physics-problems-ko-visual-645fe4ac.mp3",
+    "final_audio": "is-tarah-complex-physics-problems-ko-visual-645fe4ac.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum samjhenge Le Chatelier's principle, aur dekhenge ki pressure badhane se is chemical equilibrium par kya asar padta hai.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum samjhenge Le Chatelier's principle, aur dekhenge ki pressure badhane se is chemical equilibrium par kya asar padta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-samjhenge-le-chatelier-s-cbfdaff4.mp3",
+    "final_audio": "namaskar-aaj-hum-samjhenge-le-chatelier-s-cbfdaff4.mp3"
+  },
+  {
+    "input_text": "Yahan humare paas ek container mein reactants aur products equilibrium mein hain. Dhyan se dekhiye, reactant side par 3 moles of gas hain, aur product side par 2 moles.",
+    "input_data": {
+      "input_text": "Yahan humare paas ek container mein reactants aur products equilibrium mein hain. Dhyan se dekhiye, reactant side par 3 moles of gas hain, aur product side par 2 moles.",
+      "service": "gtts"
+    },
+    "original_audio": "yahan-humare-paas-ek-container-mein-reactants-aur-90f92b34.mp3",
+    "final_audio": "yahan-humare-paas-ek-container-mein-reactants-aur-90f92b34.mp3"
+  },
+  {
+    "input_text": "Ab sochiye, hum is system par pressure double kar dete hain. Aisa karne par, container ka volume aadha ho jaata hai.",
+    "input_data": {
+      "input_text": "Ab sochiye, hum is system par pressure double kar dete hain. Aisa karne par, container ka volume aadha ho jaata hai.",
+      "service": "gtts"
+    },
+    "original_audio": "ab-sochiye-hum-is-system-par-pressure-double-kar-37e98222.mp3",
+    "final_audio": "ab-sochiye-hum-is-system-par-pressure-double-kar-37e98222.mp3"
+  },
+  {
+    "input_text": "Jab volume kam hota hai, toh har gas ka concentration badh jaata hai. Isliye, sabhi reactants aur products ka concentration foran hi increase ho jaayega. Is hisaab se, Option A bilkul sahi hai.",
+    "input_data": {
+      "input_text": "Jab volume kam hota hai, toh har gas ka concentration badh jaata hai. Isliye, sabhi reactants aur products ka concentration foran hi increase ho jaayega. Is hisaab se, Option A bilkul sahi hai.",
+      "service": "gtts"
+    },
+    "original_audio": "jab-volume-kam-hota-hai-toh-har-gas-ka-28db220d.mp3",
+    "final_audio": "jab-volume-kam-hota-hai-toh-har-gas-ka-28db220d.mp3"
+  },
+  {
+    "input_text": "Lekin, Le Chatelier's principle kehta hai ki system is change ko oppose karega. Pressure kam karne ke liye, equilibrium us direction mein shift hoga jahan gas ke moles kam hain, yaani forward direction mein.",
+    "input_data": {
+      "input_text": "Lekin, Le Chatelier's principle kehta hai ki system is change ko oppose karega. Pressure kam karne ke liye, equilibrium us direction mein shift hoga jahan gas ke moles kam hain, yaani forward direction mein.",
+      "service": "gtts"
+    },
+    "original_audio": "lekin-le-chatelier-s-principle-kehta-hai-ki-system-d145297c.mp3",
+    "final_audio": "lekin-le-chatelier-s-principle-kehta-hai-ki-system-d145297c.mp3"
+  },
+  {
+    "input_text": "Namaskar! Aaj hum samjhenge Le Chatelier's principle, aur dekhenge ki pressure badhane se is chemical equilibrium par kya asar padta hai.",
+    "input_data": {
+      "input_text": "Namaskar! Aaj hum samjhenge Le Chatelier's principle, aur dekhenge ki pressure badhane se is chemical equilibrium par kya asar padta hai.",
+      "service": "gtts"
+    },
+    "original_audio": "namaskar-aaj-hum-samjhenge-le-chatelier-s-cbfdaff4.mp3",
+    "final_audio": "namaskar-aaj-hum-samjhenge-le-chatelier-s-cbfdaff4.mp3"
+  },
+  {
+    "input_text": "Yahan humare paas ek container mein reactants aur products equilibrium mein hain. Dhyan se dekhiye, reactant side par 3 moles of gas hain, aur product side par 2 moles.",
+    "input_data": {
+      "input_text": "Yahan humare paas ek container mein reactants aur products equilibrium mein hain. Dhyan se dekhiye, reactant side par 3 moles of gas hain, aur product side par 2 moles.",
+      "service": "gtts"
+    },
+    "original_audio": "yahan-humare-paas-ek-container-mein-reactants-aur-90f92b34.mp3",
+    "final_audio": "yahan-humare-paas-ek-container-mein-reactants-aur-90f92b34.mp3"
+  },
+  {
+    "input_text": "Ab sochiye, hum is system par pressure double kar dete hain. Aisa karne par, container ka volume aadha ho jaata hai.",
+    "input_data": {
+      "input_text": "Ab sochiye, hum is system par pressure double kar dete hain. Aisa karne par, container ka volume aadha ho jaata hai.",
+      "service": "gtts"
+    },
+    "original_audio": "ab-sochiye-hum-is-system-par-pressure-double-kar-37e98222.mp3",
+    "final_audio": "ab-sochiye-hum-is-system-par-pressure-double-kar-37e98222.mp3"
+  },
+  {
+    "input_text": "Jab volume kam hota hai, toh har gas ka concentration badh jaata hai. Isliye, sabhi reactants aur products ka concentration foran hi increase ho jaayega. Is hisaab se, Option A bilkul sahi hai.",
+    "input_data": {
+      "input_text": "Jab volume kam hota hai, toh har gas ka concentration badh jaata hai. Isliye, sabhi reactants aur products ka concentration foran hi increase ho jaayega. Is hisaab se, Option A bilkul sahi hai.",
+      "service": "gtts"
+    },
+    "original_audio": "jab-volume-kam-hota-hai-toh-har-gas-ka-28db220d.mp3",
+    "final_audio": "jab-volume-kam-hota-hai-toh-har-gas-ka-28db220d.mp3"
+  },
+  {
+    "input_text": "Lekin, Le Chatelier's principle kehta hai ki system is change ko oppose karega. Pressure kam karne ke liye, equilibrium us direction mein shift hoga jahan gas ke moles kam hain, yaani forward direction mein.",
+    "input_data": {
+      "input_text": "Lekin, Le Chatelier's principle kehta hai ki system is change ko oppose karega. Pressure kam karne ke liye, equilibrium us direction mein shift hoga jahan gas ke moles kam hain, yaani forward direction mein.",
+      "service": "gtts"
+    },
+    "original_audio": "lekin-le-chatelier-s-principle-kehta-hai-ki-system-d145297c.mp3",
+    "final_audio": "lekin-le-chatelier-s-principle-kehta-hai-ki-system-d145297c.mp3"
+  },
+  {
+    "input_text": "Ek bohot important baat: equilibrium constant 'K' sirf temperature se badalta hai, pressure se nahi. Isliye options C aur D seedhe galat ho jaate hain.",
+    "input_data": {
+      "input_text": "Ek bohot important baat: equilibrium constant 'K' sirf temperature se badalta hai, pressure se nahi. Isliye options C aur D seedhe galat ho jaate hain.",
+      "service": "gtts"
+    },
+    "original_audio": "ek-bohot-important-baat-equilibrium-constant-k-2cd7a4fb.mp3",
+    "final_audio": "ek-bohot-important-baat-equilibrium-constant-k-2cd7a4fb.mp3"
+  },
+  {
+    "input_text": "Toh A aur B dono a-sort-of sahi hain, lekin pressure badhane ka sabse pehla aur direct result concentration ka badhna hai. Shift uske baad hota hai. Isliye, Option A sabse accurate answer hai.",
+    "input_data": {
+      "input_text": "Toh A aur B dono a-sort-of sahi hain, lekin pressure badhane ka sabse pehla aur direct result concentration ka badhna hai. Shift uske baad hota hai. Isliye, Option A sabse accurate answer hai.",
+      "service": "gtts"
+    },
+    "original_audio": "toh-a-aur-b-dono-a-sort-of-sahi-hain-lekin-c0c991c5.mp3",
+    "final_audio": "toh-a-aur-b-dono-a-sort-of-sahi-hain-lekin-c0c991c5.mp3"
+  },
+  {
+    "input_text": "Umeed hai aapko yeh concept samajh aa gaya hoga. Thank you!",
+    "input_data": {
+      "input_text": "Umeed hai aapko yeh concept samajh aa gaya hoga. Thank you!",
+      "service": "gtts"
+    },
+    "original_audio": "umeed-hai-aapko-yeh-concept-samajh-aa-gaya-hoga-451cf715.mp3",
+    "final_audio": "umeed-hai-aapko-yeh-concept-samajh-aa-gaya-hoga-451cf715.mp3"
+  },
+  {
+    "input_text": "Hello! Today we will understand Le Chatelier's principle and see what effect increasing pressure has on this chemical equilibrium.",
+    "input_data": {
+      "input_text": "Hello! Today we will understand Le Chatelier's principle and see what effect increasing pressure has on this chemical equilibrium.",
+      "service": "gtts"
+    },
+    "original_audio": "hello-today-we-will-understand-le-chatelier-s-b02e18ed.mp3",
+    "final_audio": "hello-today-we-will-understand-le-chatelier-s-b02e18ed.mp3"
+  },
+  {
+    "input_text": "Here we have a container with reactants and products in equilibrium. Notice that the reactant side has 3 moles of gas, and the product side has 2 moles.",
+    "input_data": {
+      "input_text": "Here we have a container with reactants and products in equilibrium. Notice that the reactant side has 3 moles of gas, and the product side has 2 moles.",
+      "service": "gtts"
+    },
+    "original_audio": "here-we-have-a-container-with-reactants-and-d3469657.mp3",
+    "final_audio": "here-we-have-a-container-with-reactants-and-d3469657.mp3"
+  },
+  {
+    "input_text": "Now imagine we double the pressure on this system. When we do this, the container's volume becomes half.",
+    "input_data": {
+      "input_text": "Now imagine we double the pressure on this system. When we do this, the container's volume becomes half.",
+      "service": "gtts"
+    },
+    "original_audio": "now-imagine-we-double-the-pressure-on-this-system-e52c2f8c.mp3",
+    "final_audio": "now-imagine-we-double-the-pressure-on-this-system-e52c2f8c.mp3"
+  },
+  {
+    "input_text": "When volume decreases, the concentration of each gas increases. Therefore, the concentration of all reactants and products will immediately increase. According to this, Option A is absolutely correct.",
+    "input_data": {
+      "input_text": "When volume decreases, the concentration of each gas increases. Therefore, the concentration of all reactants and products will immediately increase. According to this, Option A is absolutely correct.",
+      "service": "gtts"
+    },
+    "original_audio": "when-volume-decreases-the-concentration-of-each-15a725a6.mp3",
+    "final_audio": "when-volume-decreases-the-concentration-of-each-15a725a6.mp3"
+  },
+  {
+    "input_text": "However, Le Chatelier's principle states that the system will oppose this change. To reduce pressure, equilibrium will shift in the direction where there are fewer gas moles, that is, in the forward direction.",
+    "input_data": {
+      "input_text": "However, Le Chatelier's principle states that the system will oppose this change. To reduce pressure, equilibrium will shift in the direction where there are fewer gas moles, that is, in the forward direction.",
+      "service": "gtts"
+    },
+    "original_audio": "however-le-chatelier-s-principle-states-that-the-c7915815.mp3",
+    "final_audio": "however-le-chatelier-s-principle-states-that-the-c7915815.mp3"
+  },
+  {
+    "input_text": "One very important point: the equilibrium constant 'K' only changes with temperature, not with pressure. Therefore, options C and D are directly wrong.",
+    "input_data": {
+      "input_text": "One very important point: the equilibrium constant 'K' only changes with temperature, not with pressure. Therefore, options C and D are directly wrong.",
+      "service": "gtts"
+    },
+    "original_audio": "one-very-important-point-the-equilibrium-constant-1f26d15b.mp3",
+    "final_audio": "one-very-important-point-the-equilibrium-constant-1f26d15b.mp3"
+  },
+  {
+    "input_text": "So both A and B are sort of correct, but the first and most direct result of increasing pressure is the increase in concentration. The shift happens afterwards. Therefore, Option A is the most accurate answer.",
+    "input_data": {
+      "input_text": "So both A and B are sort of correct, but the first and most direct result of increasing pressure is the increase in concentration. The shift happens afterwards. Therefore, Option A is the most accurate answer.",
+      "service": "gtts"
+    },
+    "original_audio": "so-both-a-and-b-are-sort-of-correct-but-the-first-d011c3c1.mp3",
+    "final_audio": "so-both-a-and-b-are-sort-of-correct-but-the-first-d011c3c1.mp3"
+  },
+  {
+    "input_text": "I hope you have understood this concept. Thank you!",
+    "input_data": {
+      "input_text": "I hope you have understood this concept. Thank you!",
+      "service": "gtts"
+    },
+    "original_audio": "i-hope-you-have-understood-this-concept-thank-you-0bee0d95.mp3",
+    "final_audio": "i-hope-you-have-understood-this-concept-thank-you-0bee0d95.mp3"
+  },
+  {
+    "input_text": "Hello everyone! Aaj hum ek bahut hi interesting physics problem solve karenge. Topic hai Relative Motion.",
+    "input_data": {
+      "input_text": "Hello everyone! Aaj hum ek bahut hi interesting physics problem solve karenge. Topic hai Relative Motion.",
+      "service": "gtts"
+    },
+    "original_audio": "hello-everyone-aaj-hum-ek-bahut-hi-interesting-9e2ab42b.mp3",
+    "final_audio": "hello-everyone-aaj-hum-ek-bahut-hi-interesting-9e2ab42b.mp3"
+  },
+  {
+    "input_text": "Ek boat ki still water mein maximum speed hai 27 km/h. Yeh boat ek river mein downstream move kar rahi hai, river ki speed hai 9 km/h. Boat mein baitha ek aadmi ek ball ko vertically upwards 10 m/s ki speed se phenkta hai. Humein calculate karna hai, ki bank par rest par baithe ek observer ko ball ka range kitna dikhega, in cm. Gravity, g = 10 m/s square.",
+    "input_data": {
+      "input_text": "Ek boat ki still water mein maximum speed hai 27 km/h. Yeh boat ek river mein downstream move kar rahi hai, river ki speed hai 9 km/h. Boat mein baitha ek aadmi ek ball ko vertically upwards 10 m/s ki speed se phenkta hai. Humein calculate karna hai, ki bank par rest par baithe ek observer ko ball ka range kitna dikhega, in cm. Gravity, g = 10 m/s square.",
+      "service": "gtts"
+    },
+    "original_audio": "ek-boat-ki-still-water-mein-maximum-speed-hai-27-7f30d198.mp3",
+    "final_audio": "ek-boat-ki-still-water-mein-maximum-speed-hai-27-7f30d198.mp3"
+  }
+]
