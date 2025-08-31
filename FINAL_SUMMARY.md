@@ -8,7 +8,7 @@ A fully functional web application that creates educational animations with sync
 
 ### 🤖 AI Integration
 - **Gemini 2.5 Pro**: Latest model for intelligent content generation
-- **API Key**: Pre-configured with your provided key (`AIzaSyBKuiVHuhgiVpKHfnGr83rdh9BoHL6Hz5I`)
+- **API Key**: Configure via environment variable or Streamlit secrets
 - **Smart Prompting**: Generates objectives, storyboard, narration, and complete code
 
 ### 🗣️ Free TTS System

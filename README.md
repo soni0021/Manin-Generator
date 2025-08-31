@@ -86,6 +86,7 @@ open media/videos/simple_hinglish_manim/1080p60/NewtonsLawDemo.mp4
 - Python 3.8+
 - FFmpeg (for video processing)
 - Git
+- Google Gemini API key (free tier available)
 
 ### Quick Setup
 ```bash
@@ -99,6 +100,29 @@ pip install -r requirements-simple.txt
 # Or install full system
 pip install -r requirements.txt
 ```
+
+### 🔑 API Key Configuration
+
+**Important**: You need a Google Gemini API key to use the AI features.
+
+#### Option 1: Streamlit Secrets (Recommended)
+1. Create `.streamlit/secrets.toml` in your project directory:
+```toml
+GOOGLE_API_KEY = "your_actual_api_key_here"
+```
+
+2. Get your free API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+
+#### Option 2: Environment Variable
+```bash
+# macOS/Linux
+export GOOGLE_API_KEY="your_actual_api_key_here"
+
+# Windows
+set GOOGLE_API_KEY=your_actual_api_key_here
+```
+
+**⚠️ Security Note**: Never commit your API key to version control!
 
 ### System-Specific Setup
 

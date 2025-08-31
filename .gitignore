@@ -129,3 +129,12 @@ media/Tex/*.tex
 temp_animations/
 *.tmp
 *.temp
+
+# Streamlit secrets (contains API keys)
+.streamlit/secrets.toml
+.streamlit/secrets.json
+
+# Environment files
+.env.local
+.env.production
+.env.staging

@@ -22,7 +22,10 @@ st.set_page_config(
 )
 
 # Configure Google AI
-GOOGLE_API_KEY = "AIzaSyBKuiVHuhgiVpKHfnGr83rdh9BoHL6Hz5I"
+GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", "")
+if not GOOGLE_API_KEY:
+    st.error("⚠️ Google API Key not found. Please set GOOGLE_API_KEY in your Streamlit secrets.")
+    st.stop()
 genai.configure(api_key=GOOGLE_API_KEY)
 
 class AnimationGenerator:

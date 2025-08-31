@@ -15,8 +15,11 @@ def test_gemini_connection():
     try:
         import google.generativeai as genai
         
-        # Configure with the provided API key
-        GOOGLE_API_KEY = "AIzaSyBKuiVHuhgiVpKHfnGr83rdh9BoHL6Hz5I"
+        # Configure with API key from environment or secrets
+        GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
+        if not GOOGLE_API_KEY:
+            print("❌ GOOGLE_API_KEY environment variable not set")
+            return False
         genai.configure(api_key=GOOGLE_API_KEY)
         
         # Test with a simple prompt

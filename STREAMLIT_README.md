@@ -124,7 +124,7 @@ python run_streamlit.py
 - **Audio**: pygame for playback
 
 ### API Usage
-- Uses provided Google API key: `AIzaSyBKuiVHuhgiVpKHfnGr83rdh9BoHL6Hz5I`
+- Uses Google API key from environment variable or Streamlit secrets
 - Free tier limits: ~60 requests per minute
 - Automatic retry on rate limits
 
