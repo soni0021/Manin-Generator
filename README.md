@@ -389,12 +389,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google TTS** for reliable voice synthesis
 - **Streamlit** for the web interface framework
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: [your-email@example.com]
-
 ---
 
 **Ready to create amazing Hinglish educational animations? Start with `python run_streamlit.py` and let AI do the heavy lifting! 🚀**
